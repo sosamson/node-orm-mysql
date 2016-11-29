@@ -1,0 +1,23 @@
+{
+  "name": "node-orm-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosamson/node-orm-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "orm"
+  ],
+  "author": "sosamson <ss@imaginecool.com> (http://imaginecool.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sosamson/node-orm-mysql/issues"
+  },
+  "homepage": "https://github.com/sosamson/node-orm-mysql#readme"
+}
